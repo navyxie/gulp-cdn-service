@@ -1,0 +1,33 @@
+{
+  "name": "gulp-cdn-service",
+  "version": "0.0.0",
+  "description": "a gulp plugin for upload file to cdn",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navyxie/gulp-cdn-service.git"
+  },
+  "keywords": [
+    "gulp",
+    "upload",
+    "image",
+    "file",
+    "cdn",
+    "qiniu"
+  ],
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "author": {
+    "name": "navyxie"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/navyxie/gulp-cdn-service",
+  "maintainers": [
+    {
+      "name": "navyxie",
+      "email": "navyxie2010@gmail.com"
+    }
+  ]
+}
