@@ -1,6 +1,6 @@
 {
   "name": "gulp-cdn-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a gulp plugin for upload file to cdn",
   "main": "index.js",
   "scripts": {},

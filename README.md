@@ -15,8 +15,8 @@ gulp.task('demo',function(){
         SECRET_KEY: "xxxxx",
         bucket: "koala-program-upload"
       },
-      debug: true,
-      processPath: process.cwd(),
+      debug: true, //default: true
+      processPath: process.cwd(), //default: process.cwd()
       removePrefix: 'images'
     }))
 })
